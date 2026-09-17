@@ -1,0 +1,14 @@
+{
+  "entities": [
+    {
+      "model_id": "example_zombie",
+      "bedrock_identifier": "patriacraft:example_zombie",
+      "java_entity_type": "minecraft:zombie"
+    },
+    {
+      "model_id": "example_chicken",
+      "bedrock_identifier": "patriacraft:example_chicken",
+      "java_entity_type": "minecraft:chicken"
+    }
+  ]
+}
